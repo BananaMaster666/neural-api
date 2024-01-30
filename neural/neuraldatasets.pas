@@ -745,7 +745,7 @@ var
 begin
   MaxX := M.Width - 1;
   MaxY := M.Height - 1;
-  Vol.ReSize(MaxX + 1, MaxY + 1, 3);
+  Vol.ReSize(MaxX + 1, MaxY + 1, 1);
 
   for CountX := 0 to MaxX do
   begin
@@ -754,9 +754,7 @@ begin
       LocalColor := M.Colors[CountX, CountY];
       RawPos := Vol.GetRawPos(CountX, CountY, 0);
 
-      Vol.FData[RawPos]     := LocalColor.red shr 8;
-      Vol.FData[RawPos + 1] := LocalColor.green shr 8;
-      Vol.FData[RawPos + 2] := LocalColor.blue shr 8;
+
     end;
   end;
 end;

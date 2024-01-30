@@ -482,7 +482,7 @@ begin
   FHasFlipY := false;
   FHasMakeGray := false;
   FColorEncoding := 0;
-  FMultipleSamplesAtValidation := false;
+  FMultipleSamplesAtValidation := true;
   FChannelShiftRate := 0;
 end;
 
@@ -1605,7 +1605,7 @@ begin
   FIsSoftmax := true;
   FMaxCropSize := 8;
   FMinBackpropagationError := 0.2;
-  FMultipleSamplesAtValidation := true;
+  FMultipleSamplesAtValidation := false;
   FTrainingSampleProcessedCnt := TNNetVolume.Create;
 end;
 

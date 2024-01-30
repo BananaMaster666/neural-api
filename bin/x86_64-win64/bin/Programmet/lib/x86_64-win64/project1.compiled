@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\lazarus\fpc\3.2.2\bin\x86_64-win64\fpc.exe" Date="1449425326"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -gw2 -godwarfsets -gl -l -vewnhibq -FiC:\Users\melon\Documents\GitHub\neural-api\bin\x86_64-win64\bin\Programmet\lib\x86_64-win64 -FuC:\Users\melon\Documents\GitHub\neural-api -FuC:\Users\melon\Documents\GitHub\neural-api\neural -FuC:\Users\melon\Documents\GitHub\neural-api\bin\x86_64-win64\bin\Programmet\ -FUC:\Users\melon\Documents\GitHub\neural-api\bin\x86_64-win64\bin\Programmet\lib\x86_64-win64\ -FEC:\Users\melon\Documents\GitHub\neural-api\bin\x86_64-win64\bin\Programmet\ -oC:\Users\melon\Documents\GitHub\neural-api\bin\x86_64-win64\bin\Programmet\project1.exe project1.lpr"/>
+  <Complete Value="False"/>
+</CONFIG>

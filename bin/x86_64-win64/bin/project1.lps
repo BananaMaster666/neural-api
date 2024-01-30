@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="project1.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="28"/>
+        <CursorPos X="25" Y="48"/>
+        <UsageCount Value="113"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\..\neural\neuralthread.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="41"/>
+        <CursorPos X="42" Y="61"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\..\neural\neuralvolume.pas"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="3134"/>
+        <CursorPos X="45" Y="111"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\..\neural\neuraldatasets.pas"/>
+        <EditorIndex Value="4"/>
+        <TopLine Value="843"/>
+        <CursorPos X="43" Y="945"/>
+        <UsageCount Value="23"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\..\neural\neuralfit.pas"/>
+        <EditorIndex Value="3"/>
+        <TopLine Value="2107"/>
+        <CursorPos X="73" Y="471"/>
+        <UsageCount Value="22"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\..\neural\neuralnetwork.pas"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="3381"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="28">
+      <Position>
+        <Filename Value="..\..\..\neural\neuralfit.pas"/>
+        <Caret Line="2416" Column="18" TopLine="2400"/>
+      </Position>
+      <Position>
+        <Filename Value="..\..\..\neural\neuralfit.pas"/>
+        <Caret Line="2417" Column="5" TopLine="2409"/>
+      </Position>
+      <Position>
+        <Filename Value="..\..\..\neural\neuralfit.pas"/>
+        <Caret Line="2414" Column="5" TopLine="2394"/>
+      </Position>
+      <Position>
+        <Filename Value="..\..\..\neural\neuralfit.pas"/>
+        <Caret Line="2452" Column="3" TopLine="2405"/>
+      </Position>
+      <Position>
+        <Filename Value="..\..\..\neural\neuralfit.pas"/>
+        <Caret Line="2416" Column="4" TopLine="2406"/>
+      </Position>
+      <Position>
+        <Filename Value="..\..\..\neural\neuralfit.pas"/>
+        <Caret Line="2414" Column="34" TopLine="2400"/>
+      </Position>
+      <Position>
+        <Filename Value="..\..\..\neural\neuralfit.pas"/>
+        <Caret Line="2420" Column="56" TopLine="2400"/>
+      </Position>
+      <Position>
+        <Filename Value="project1.lpr"/>
+        <Caret Line="41" Column="150" TopLine="26"/>
+      </Position>
+      <Position>
+        <Filename Value="..\..\..\neural\neuralfit.pas"/>
+        <Caret Line="2411" Column="14" TopLine="92"/>
+      </Position>
+      <Position>
+        <Filename Value="..\..\..\neural\neuralfit.pas"/>
+        <Caret Line="26" Column="35" TopLine="11"/>
+      </Position>
+      <Position>
+        <Filename Value="project1.lpr"/>
+        <Caret Line="56" Column="14" TopLine="20"/>
+      </Position>
+      <Position>
+        <Filename Value="..\..\..\neural\neuraldatasets.pas"/>
+        <Caret Line="832" Column="9" TopLine="805"/>
+      </Position>
+      <Position>
+        <Filename Value="project1.lpr"/>
+        <Caret Line="52" Column="34" TopLine="24"/>
+      </Position>
+      <Position>
+        <Filename Value="..\..\..\neural\neuralfit.pas"/>
+        <Caret Line="2499" Column="31" TopLine="2463"/>
+      </Position>
+      <Position>
+        <Filename Value="..\..\..\neural\neuralfit.pas"/>
+        <Caret Line="2041" Column="13" TopLine="2034"/>
+      </Position>
+      <Position>
+        <Filename Value="..\..\..\neural\neuralfit.pas"/>
+        <Caret Line="2317" Column="36" TopLine="2213"/>
+      </Position>
+      <Position>
+        <Filename Value="..\..\..\neural\neuralfit.pas"/>
+        <Caret Line="48" Column="33"/>
+      </Position>
+      <Position>
+        <Filename Value="..\..\..\neural\neuralfit.pas"/>
+        <Caret Line="73" Column="29" TopLine="53"/>
+      </Position>
+      <Position>
+        <Filename Value="..\..\..\neural\neuralfit.pas"/>
+        <Caret Line="150" Column="76" TopLine="124"/>
+      </Position>
+      <Position>
+        <Filename Value="..\..\..\neural\neuralfit.pas"/>
+        <Caret Line="485" Column="31" TopLine="458"/>
+      </Position>
+      <Position>
+        <Filename Value="..\..\..\neural\neuralfit.pas"/>
+        <Caret Line="9" Column="114"/>
+      </Position>
+      <Position>
+        <Filename Value="..\..\..\neural\neuraldatasets.pas"/>
+        <Caret Line="1329" Column="47" TopLine="1314"/>
+      </Position>
+      <Position>
+        <Filename Value="..\..\..\neural\neuraldatasets.pas"/>
+        <Caret Line="143" Column="50" TopLine="126"/>
+      </Position>
+      <Position>
+        <Filename Value="..\..\..\neural\neuraldatasets.pas"/>
+        <Caret Line="198" Column="49" TopLine="191"/>
+      </Position>
+      <Position>
+        <Filename Value="..\..\..\neural\neuraldatasets.pas"/>
+        <Caret Line="449" Column="56" TopLine="433"/>
+      </Position>
+      <Position>
+        <Filename Value="..\..\..\neural\neuraldatasets.pas"/>
+        <Caret Line="617" Column="32" TopLine="601"/>
+      </Position>
+      <Position>
+        <Filename Value="..\..\..\neural\neuraldatasets.pas"/>
+        <Caret Line="708" Column="38" TopLine="689"/>
+      </Position>
+      <Position>
+        <Filename Value="project1.lpr"/>
+        <Caret Line="53" Column="28" TopLine="34"/>
+      </Position>
+      <Position>
+        <Filename Value="..\..\..\neural\neuralfit.pas"/>
+        <Caret Line="453" Column="105" TopLine="450"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

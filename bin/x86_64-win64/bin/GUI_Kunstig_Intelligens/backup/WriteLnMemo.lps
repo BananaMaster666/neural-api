@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units Count="3">
+      <Unit0>
+        <Filename Value="WriteLnMemo.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <UsageCount Value="21"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="kunstigintelligens.pp"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="KunstigIntelligens"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="90"/>
+        <CursorPos X="39" Y="113"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="..\..\..\..\neural\neuraldatasets.pas"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="728"/>
+        <CursorPos Y="757"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit2>
+    </Units>
+    <JumpHistory Count="25" HistoryIndex="24">
+      <Position1>
+        <Filename Value="kunstigintelligens.pp"/>
+        <Caret Line="23" Column="30"/>
+      </Position1>
+      <Position2>
+        <Filename Value="kunstigintelligens.pp"/>
+        <Caret Line="144" Column="3" TopLine="112"/>
+      </Position2>
+      <Position3>
+        <Filename Value="kunstigintelligens.pp"/>
+        <Caret Line="87" Column="6" TopLine="79"/>
+      </Position3>
+      <Position4>
+        <Filename Value="kunstigintelligens.pp"/>
+        <Caret Line="89" Column="3" TopLine="69"/>
+      </Position4>
+      <Position5>
+        <Filename Value="kunstigintelligens.pp"/>
+        <Caret Line="109" Column="6" TopLine="100"/>
+      </Position5>
+      <Position6>
+        <Filename Value="kunstigintelligens.pp"/>
+        <Caret Line="130" Column="13" TopLine="101"/>
+      </Position6>
+      <Position7>
+        <Filename Value="kunstigintelligens.pp"/>
+        <Caret Line="131" Column="7" TopLine="101"/>
+      </Position7>
+      <Position8>
+        <Filename Value="kunstigintelligens.pp"/>
+        <Caret Line="133" TopLine="97"/>
+      </Position8>
+      <Position9>
+        <Filename Value="kunstigintelligens.pp"/>
+        <Caret Line="115" Column="66" TopLine="86"/>
+      </Position9>
+      <Position10>
+        <Filename Value="kunstigintelligens.pp"/>
+        <Caret Line="67" TopLine="47"/>
+      </Position10>
+      <Position11>
+        <Filename Value="kunstigintelligens.pp"/>
+        <Caret Line="131" Column="4" TopLine="101"/>
+      </Position11>
+      <Position12>
+        <Filename Value="..\..\..\..\neural\neuraldatasets.pas"/>
+        <Caret Line="758" Column="55" TopLine="728"/>
+      </Position12>
+      <Position13>
+        <Filename Value="..\..\..\..\neural\neuraldatasets.pas"/>
+        <Caret Line="757" TopLine="728"/>
+      </Position13>
+      <Position14>
+        <Filename Value="kunstigintelligens.pp"/>
+        <Caret Line="107" Column="64" TopLine="100"/>
+      </Position14>
+      <Position15>
+        <Filename Value="kunstigintelligens.pp"/>
+        <Caret Line="113" Column="42" TopLine="86"/>
+      </Position15>
+      <Position16>
+        <Filename Value="kunstigintelligens.pp"/>
+        <Caret Line="93" TopLine="71"/>
+      </Position16>
+      <Position17>
+        <Filename Value="kunstigintelligens.pp"/>
+        <Caret Line="87" TopLine="67"/>
+      </Position17>
+      <Position18>
+        <Filename Value="kunstigintelligens.pp"/>
+        <Caret Line="96" Column="6" TopLine="77"/>
+      </Position18>
+      <Position19>
+        <Filename Value="kunstigintelligens.pp"/>
+        <Caret Line="97" Column="6" TopLine="78"/>
+      </Position19>
+      <Position20>
+        <Filename Value="kunstigintelligens.pp"/>
+        <Caret Line="96" Column="6" TopLine="77"/>
+      </Position20>
+      <Position21>
+        <Filename Value="kunstigintelligens.pp"/>
+        <Caret Line="20" Column="45"/>
+      </Position21>
+      <Position22>
+        <Filename Value="kunstigintelligens.pp"/>
+        <Caret Line="19" Column="45"/>
+      </Position22>
+      <Position23>
+        <Filename Value="kunstigintelligens.pp"/>
+        <Caret Line="21" Column="44"/>
+      </Position23>
+      <Position24>
+        <Filename Value="kunstigintelligens.pp"/>
+        <Caret Line="109" Column="32" TopLine="78"/>
+      </Position24>
+      <Position25>
+        <Filename Value="kunstigintelligens.pp"/>
+        <Caret Line="111" Column="54" TopLine="89"/>
+      </Position25>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode="default"/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

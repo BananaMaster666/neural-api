@@ -21,14 +21,7 @@ type
     NN: TNNet; // Neural network object
     NeuralFit: TNeuralImageFit; // Object for neural network fitting
     ImgTrainingVolumes, ImgValidationVolumes, ImgTestVolumes: TNNetVolumeList; // Volumes for training, validation, and testing
-  begin
-    // Check if MNIST files exist
-    if not (CheckMNISTFile('train')) or not (CheckMNISTFile('t10k')) then
     begin
-      Terminate;
-      Exit; // Exit the procedure if MNIST files are not found
-    end;
-
     WriteLn('Creating Neural Network...');
     NN := TNNet.Create(); // Create an instance of the neural network
 
@@ -71,6 +64,7 @@ type
     ImgTestVolumes.Free;
     ImgValidationVolumes.Free;
     ImgTrainingVolumes.Free;
+    readln;
     Terminate;
   end;
 

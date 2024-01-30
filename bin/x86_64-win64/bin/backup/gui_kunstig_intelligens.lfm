@@ -1,0 +1,28 @@
+object WriteLnMemoForm: TWriteLnMemoForm
+  Left = 238
+  Height = 240
+  Top = 95
+  Width = 648
+  Caption = 'WriteLnMemo Test'
+  ClientHeight = 240
+  ClientWidth = 648
+  LCLVersion = '1.6.0.4'
+  object WritelnTestBtn: TButton
+    Left = 18
+    Height = 29
+    Top = 200
+    Width = 110
+    AutoSize = True
+    Caption = 'test WritelnMemo'
+    OnClick = WritelnTestBtnClick
+    TabOrder = 0
+  end
+  object WritelnMemo: TMemo
+    Left = 18
+    Height = 173
+    Top = 19
+    Width = 606
+    ScrollBars = ssAutoBoth
+    TabOrder = 1
+  end
+end
